@@ -27,7 +27,7 @@ Write down what was printed out. What type is my_dictionary? 'dict' type, or dic
 
 Add a line of code that will print the definition of 'chair', then run the code again.
 
-Write down what happens if you use my_dictionary['kittens']? What do you think that error means?
+Write down what happens if you use my_dictionary['kittens']? What do you think that error means? It causes a KeyError, which means that it has no defined meaning, or an error in the 'key'.
 '''
 my_dictionary = {
 'cat': 'a domestic feline',
