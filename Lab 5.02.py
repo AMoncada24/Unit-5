@@ -76,7 +76,17 @@ for word in example_word_list:
     if word in word_dict:
         word_dict[word] += 1
     else:
-        word_dict[(word)] = 1
+        word_dict[word] = 1
 
 print(word_dict)
 
+'''
+while 
+    user_choice
+    if user_choice in word_dict:
+
+    elif user_choice == "q"
+        break
+    else:
+        print("That word doesn't appear at all.")
+'''
